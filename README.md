@@ -1,4 +1,4 @@
-# # # Hi there 👋
+### Hi there 👋
 ## I'm Giriraju, a data enthusiast passionate about turning raw data into meaningful insights. Here's a glimpse of my GitHub profile:
 
 - 🔭 I’m currently working on a data analytics project.
