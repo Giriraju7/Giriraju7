@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 ## I'm Giriraju, a data enthusiast passionate about turning raw data into meaningful insights. Here's a glimpse of my GitHub profile:
 
 - 🔭 I’m currently working on a data analytics project.
@@ -8,3 +8,4 @@
 - 📫 How to reach me: 
   - Phone: 9442223736
   - Email: giriraju2811@gmail.com
+  - Linkedin: in/giriraju-b-280051b5
