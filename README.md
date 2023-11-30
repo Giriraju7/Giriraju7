@@ -24,7 +24,7 @@
       <li>Linkedin: <a href="https://www.linkedin.com/in/giriraju-b-280051b5/" target="_blank">https://www.linkedin.com/in/giriraju-b-280051b5/</a></li>
   </ul>
 
-<h3 align="left">Connect me:</h3>
+<h3 align="left">Connect with me in :</h3>
 <p align="left">
    <a href="https://wa.me/+919442223736" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="50" width="50" style="margin-right: 30px;" />
