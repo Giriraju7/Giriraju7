@@ -1,4 +1,18 @@
-## Hi there 👋
+<!-- Add TypewriterJS Library -->
+<script src="https://cdn.jsdelivr.net/npm/typewriterjs@1.0.0/dist/core.js"></script>
+
+<!-- Your Welcome Message Container -->
+<div id="welcome-message"></div>
+
+<!-- TypewriterJS Script -->
+<script>
+  const welcomeMessage = new Typewriter("#welcome-message", {
+    strings: ["Welcome to My  Profile!  :) "],
+    autoStart: true,
+    loop: true,
+  });
+</script>👋
+
 ## I'm Giriraju, a data enthusiast passionate about turning raw data into meaningful insights.Here's a glimpse of my GitHub profile:
 
 - 🔭 I’m currently working on a data analytics project.
