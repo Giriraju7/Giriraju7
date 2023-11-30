@@ -43,7 +43,7 @@
   </a> &nbsp;&nbsp;
   
 <a href="https://www.hackerrank.com/giriraju2811" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="50" style="margin-right: 30px;" />
+    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="60" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
   
   <a href="https://discord.com/channels/@giriraju_2811" target="blank">
@@ -65,19 +65,19 @@
   <a href="https://app.powerbi.com/home?experience=power-bi" target="blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerBI" width="70" height="40"/></a> &nbsp;
    <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="blank" rel="noreferrer"> <img src="https://prod.wp.cdn.aws.wfu.edu/sites/500/2022/10/Looker-Studio-Logo.png" alt="Looker_Studio" width="30" height="40"/></a> &nbsp;&nbsp;
   <a href="https://public.tableau.com/app/discover" target="blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/70/26/14/702614b266cc865db2e99f260499ee66.jpg" alt="matplotlib" width="40" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="60" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;&nbsp;
-   <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/></a> &nbsp;&nbsp;
-   <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82-1024x562.png" alt="pandas" width="50" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="blank" rel="noreferrer"><img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="50" height="40"/></a> &nbsp;&nbsp;  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> &nbsp;&nbsp;
+   <a href="https://3ahb0cifthpzytb.sg.qlikcloud.com/" target="blank" rel="noreferrer"> <img src="https://www.prisma-informatik.de/newsroom/wp-content/uploads/2016/03/Qlik-Sense_Vertical-Typemark-TM.jpg" alt="matplotlib" width="40" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="45" height="40"/></a> &nbsp;
+  <a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
+   <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/></a> &nbsp;
+   <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82-1024x562.png" alt="pandas" width="60" height="40"/></a> &nbsp;
+  <a href="https://matplotlib.org/" target="blank" rel="noreferrer"><img src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="matplotlib" width="50" height="40"/></a> &nbsp;  
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> &nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> &nbsp;
   <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/></a> &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;&nbsp;
    <a href="https://pytorch.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> &nbsp;&nbsp; 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> &nbsp;&nbsp; 
-  
-   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> &nbsp;&nbsp;
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> &nbsp;&nbsp;
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/></a>  &nbsp;&nbsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> &nbsp;&nbsp;
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> &nbsp;&nbsp; </p>
