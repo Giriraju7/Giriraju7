@@ -82,7 +82,7 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> &nbsp;&nbsp;
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> &nbsp;&nbsp; </p>
     
-<div style="background-color: black; color: white;">
+<div style="background-color: Dark blue ; color: white;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraju7&show_icons=true&locale=en&layout=compact" alt="giriraju7" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraju7&show_icons=true&locale=en" alt="giriraju7" /></p>
