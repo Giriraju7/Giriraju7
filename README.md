@@ -42,7 +42,7 @@
     <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.discord.com/giriraju_2811" target="blank">
+  <a href="https://discord.com/channels/@giriraju_2811" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="giriraju_2811" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
 
