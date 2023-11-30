@@ -30,7 +30,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
   
-  <a href="<https://mail.google.com/giriraju2811@gmail.com" target="blank">
+<a href="mailto:giriraju2811@gmail.com"  target="blank">
     <img align="center" src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
   
