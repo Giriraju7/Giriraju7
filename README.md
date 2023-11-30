@@ -38,6 +38,10 @@
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="giriraju-b-280051b5" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
 
+<a href="https://www.novypro.com/profile_projects/girirajub" target="blank">
+    <img align="center" src="https://cdn.dribbble.com/userupload/11682760/file/original-40e170e535675037b863ea206a1ae4de.gif" alt="girirajub" height="50" width="50" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;
+  
 <a href="https://www.hackerrank.com/giriraju2811" target="blank">
     <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
