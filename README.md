@@ -24,7 +24,7 @@
       <li>Linkedin: <a href="https://www.linkedin.com/in/giriraju-b-280051b5/" target="_blank">https://www.linkedin.com/in/giriraju-b-280051b5/</a></li>
   </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
    <a href="https://wa.me/+919442223736" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="50" width="50" style="margin-right: 30px;" />
@@ -36,22 +36,26 @@
   
   <a href="https://linkedin.com/in/giriraju-b-280051b5" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="giriraju-b-280051b5" height="50" width="50" style="margin-right: 30px;" />
-  </a> &nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/giriraju2811" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="70" style="margin-right: 30px;" />
-  </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/giriraju2811" target="blank">
+    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="50" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.discord.com/giriraju." target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="giriraju_23614" height="50" width="50" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;
 
   <a href="https://www.leetcode.com/giriraju" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" alt="giriraju" height="50" width="50" style="margin-right: 30px;" />
-  </a> &nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;
 
   <a href="https://dribbble.com/giriraju" target="blank">
     <img align="center" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/media/bb257764f07c5680d43f3721b20b0f45.gif" alt="giriraju" height="50" width="50" style="margin-right: 30px;" />
   </a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Here are my skills(Languages & Tools) I work with :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photos
 
 
