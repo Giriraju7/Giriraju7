@@ -26,21 +26,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="https://wa.me/+919442223736" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="50" width="50" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="<https://mail.google.com/giriraju2811@gmail.com" target="blank">
+    <img align="center" src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" height="50" width="50" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/giriraju-b-280051b5" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="giriraju-b-280051b5" height="50" width="50" style="margin-right: 30px;" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/giriraju2811" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="50" style="margin-right: 30px;" />
-  </a>
+    <img align="center" src="https://cdn.dribbble.com/userupload/11680616/file/original-f5d4b3cd4a5f133cceea7437e54fbfb0.gif" alt="giriraju2811" height="50" width="70" style="margin-right: 30px;" />
+  </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.leetcode.com/giriraju" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" alt="giriraju" height="50" width="50" style="margin-right: 30px;" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://dribbble.com/giriraju" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/users/1161517/screenshots/7200525/media/2f268d1db27828c96d4c0b9a07063b30.gif" alt="giriraju" height="50" width="50" style="margin-right: 30px;" />
-  </a>
+    <img align="center" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/media/bb257764f07c5680d43f3721b20b0f45.gif" alt="giriraju" height="50" width="50" style="margin-right: 30px;" />
+  </a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
