@@ -1,11 +1,11 @@
-![MasterHead](img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif")
-<h1 align="center">Hi 👋, I'm Giriraju</h1>
-<h3 align="center">A data enthusiast passionate about turning raw data into meaningful insights. Here's a glimpse of my GitHub profile</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif")
+![MasterHead]<img align="left" alt="Coding" width="400" src="http://camo.githubusercontent.com/c023e760801b016b3c2480f8acc7a8f3bf62bb4052c6f9f8a461a66ed044eae4/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d2673697a653d33342670617573653d31303031267643656e7465723d747275652677696474683d31303030266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652e2b3a29.gif">
+<h1 align="left">Hi 👋, I'm Giriraju</h1>
+<h3 align="left">A data enthusiast passionate about turning raw data into meaningful insights. Here's a glimpse of my GitHub profile</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giriraju7&label=Profile%20views&color=0e75b6&style=flat" alt="giriraju7" /> </p>
 
-- 🔭 I’m currently working on [data analytics project](https://github.com/Giriraju7/Senchola-University-Internship)
+- 🔭 I’m currently working on [Data Analytics Intern at Senchola University](https://github.com/Giriraju7/Senchola-University-Internship)
 
 - 🌱 I’m continuously learning **various BI tools to enhance my analytical skills.**
 
