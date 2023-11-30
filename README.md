@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Giriraju !! </h1>
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="left">A data enthusiast passionate about turning raw data into meaningful insights. Here's a glimpse of my GitHub profile</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/userupload/11683426/file/original-04f1bc6aeb5c833fe822e558b0324cc8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giriraju7&label=Profile%20views&color=0e75b6&style=flat" alt="giriraju7" /> </p>
 
