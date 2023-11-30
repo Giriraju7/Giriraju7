@@ -39,7 +39,7 @@
   </a> &nbsp;&nbsp;
 
 <a href="https://www.novypro.com/profile_projects/girirajub" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/userupload/11682760/file/original-40e170e535675037b863ea206a1ae4de.gif" alt="girirajub" height="50" width="50" style="margin-right: 30px;" />
+    <img align="center" src="https://cdn.dribbble.com/userupload/11683192/file/original-446c9374699b8848c1603408d793277b.gif" alt="girirajub" height="50" width="50" style="margin-right: 30px;" />
   </a> &nbsp;&nbsp;
   
 <a href="https://www.hackerrank.com/giriraju2811" target="blank">
