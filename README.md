@@ -63,8 +63,8 @@
 <p align="left"> 
   <a href="https://www.office.com/launch/excel?ui=en-US&rs=US&auth=1" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/></a> &nbsp;
   <a href="https://app.powerbi.com/home?experience=power-bi" target="blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerBI" width="70" height="40"/></a> &nbsp;
-   <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="blank" rel="noreferrer"> <img src="https://prod.wp.cdn.aws.wfu.edu/sites/500/2022/10/Looker-Studio-Logo.png" alt="Looker_Studio" width="30" height="40"/></a> &nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/discover" target="blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/70/26/14/702614b266cc865db2e99f260499ee66.jpg" alt="matplotlib" width="40" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/discover" target="blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/70/26/14/702614b266cc865db2e99f260499ee66.jpg" alt="matplotlib" width="40" height="40"/></a> &nbsp;
+   <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="blank" rel="noreferrer"> <img src="https://prod.wp.cdn.aws.wfu.edu/sites/500/2022/10/Looker-Studio-Logo.png" alt="Looker_Studio" width="40" height="40"/></a> &nbsp;  
    <a href="https://3ahb0cifthpzytb.sg.qlikcloud.com/" target="blank" rel="noreferrer"> <img src="https://www.prisma-informatik.de/newsroom/wp-content/uploads/2016/03/Qlik-Sense_Vertical-Typemark-TM.jpg" alt="matplotlib" width="40" height="40"/></a> &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="45" height="40"/></a> &nbsp;
   <a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> &nbsp;
