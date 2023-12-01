@@ -85,7 +85,7 @@
 <div style="background-color: Dark blue ; color: white;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraju7&show_icons=true&locale=en&layout=compact" alt="giriraju7" /></p><br><br><br><br>
 
-  <p><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraju7&show_icons=true&locale=en" alt="giriraju7" /></p>
+  <p><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraju7&show_icons=true&locale=en" alt="giriraju7" /></p>
 
   <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giriraju7&" alt="giriraju7" /></p>
 </div>
