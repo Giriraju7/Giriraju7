@@ -83,11 +83,11 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> &nbsp;&nbsp; </p>&nbsp;&nbsp;
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">  
 <div style="background-color: Dark blue ; color: white;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraju7&show_icons=true&locale=en&layout=compact" alt="giriraju7" /></p><br><br><br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriraju7&show_icons=true&locale=en&layout=compact" alt="giriraju7" /></p><br><br><br><br>
 
-  <p><br><br><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraju7&show_icons=true&locale=en" alt="giriraju7" /></p>
+  <p><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=giriraju7&show_icons=true&locale=en" alt="giriraju7" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giriraju7&" alt="giriraju7" /></p>
+  <p><br><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giriraju7&" alt="giriraju7" /></p>
 </div>
 
 
