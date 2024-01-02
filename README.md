@@ -1,4 +1,4 @@
-<h1> <img align="left" alt="Coding" width="1000" src="http://camo.githubusercontent.com/c023e760801b016b3c2480f8acc7a8f3bf62bb4052c6f9f8a461a66ed044eae4/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d2673697a653d33342670617573653d31303031267643656e7465723d747275652677696474683d31303030266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652e2b3a29"></h1>
+<h1> <img align="left" alt="Coding" width="1000" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&random=false&width=435&lines=Welcome+to+my+profile+!!+%3A)"></h1>
 
 <h1 align="left">Hi 👋, I'm Giriraju !! </h1>
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
