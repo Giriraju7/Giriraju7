@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giriraju7&label=Profile%20views&color=0e75b6&style=flat" alt="giriraju7" /> </p>
 
-- 🔭 I’m currently working as Senior Data Analyst  at INFOCHOLA SOLUTIONS INDIA PVT LTD.
+- 🔭 I’m currently working as **Senior Data Analyst**  at **INFOCHOLA SOLUTIONS INDIA PVT LTD**.
 
 - 🌱 I’m continuously learning **various BI tools to enhance my analytical skills.**
 
